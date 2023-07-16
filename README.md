@@ -1,11 +1,11 @@
 ## Hi, I'm MarkWders 🌌
   
 <a href="https://ds.markwders.online" target="_blank">
-<img src="https://media.discordapp.net/attachments/1130161883354255452/1130162848434233444/8197841_discord_social_network_communication_interaction_message_icon.png?width=36&height=36 alt=youtube style="margin-bottom: 5px;" /> 
+<img src="https://media.discordapp.net/attachments/1130161883354255452/1130162848434233444/8197841_discord_social_network_communication_interaction_message_icon.png?width=36&height=36" alt=youtube style="margin-bottom: 5px;" /> 
 </a> 
 
 <a href="https://tg.markwders.online" target="_blank">
-<img src="https://media.discordapp.net/attachments/1130161883354255452/1130162589578559539/8726504_telegram_icon.png?width=36&height=36 alt=youtube style="margin-bottom: 5px;" /> 
+<img src="https://media.discordapp.net/attachments/1130161883354255452/1130162589578559539/8726504_telegram_icon.png?width=36&height=36" alt=youtube style="margin-bottom: 5px;" /> 
 </a> 
 
 <a href="https://discord.com/users/453263692318900264" target="_blank">
